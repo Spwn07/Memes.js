@@ -7,7 +7,7 @@ Get a funny memes!
 ### Example
 
 ```js
-const getMeme = require('memes.js');
+const getMeme = require('shitpost.js');
 
 (async () => {
 const result = await getMeme();
